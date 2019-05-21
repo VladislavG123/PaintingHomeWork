@@ -1,0 +1,15 @@
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\bin\Debug\PaintingHomeWork.exe.config
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\bin\Debug\PaintingHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\bin\Debug\PaintingHomeWork.pdb
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\App.g.cs
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork_MarkupCompile.cache
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork_MarkupCompile.lref
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\MainWindow.baml
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.g.resources
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.Properties.Resources.resources
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.csproj.GenerateResource.cache
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\PaintingHomeWork\PaintingHomeWork\obj\Debug\PaintingHomeWork.pdb
